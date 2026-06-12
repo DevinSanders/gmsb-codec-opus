@@ -1,0 +1,10 @@
+{
+  "publisher": "github.DevinSanders",
+  "id": "codec.opus",
+  "name": "Opus Codec",
+  "version": "1.0.0",
+  "author": "Devin Sanders",
+  "description": "Adds .opus playback support via the Concentus managed Opus decoder.",
+  "entryDll": "OpusCodecPlugin.dll",
+  "isTheme": false
+}
