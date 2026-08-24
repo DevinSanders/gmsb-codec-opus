@@ -20,7 +20,7 @@
          test host IS the runtime here, so re-add both with full assets so
          their DLLs land in the test output. -->
     <PackageReference Include="SoundBoard.PluginApi" Version="1.0.0-beta.1" />
-    <PackageReference Include="NAudio.Core" Version="2.3.0" />
+    <PackageReference Include="NAudio.Core" Version="3.0.1" />
   </ItemGroup>
 
   <ItemGroup>
